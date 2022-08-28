@@ -1,8 +1,11 @@
 # cloud-disk - fullstack облачное хранилище
 
 # Технологии:
-##frontend: React.js, Redux, Redux Thunk, React Test Renderer, Jest
-##backend: Node.js, Express.js, MongoDB, JWT
+
+## frontend: React.js, Redux, Redux Thunk, React Test Renderer, Jest
+
+## backend: Node.js, Express.js, MongoDB, JWT
+
 ##tests: frontend -> src -> test
 
 # команды:
