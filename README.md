@@ -6,7 +6,7 @@
 
 ## backend: Node.js, Express.js, MongoDB, JWT
 
-##tests: frontend -> src -> test
+## tests: frontend -> src -> test
 
 # команды:
 ## frontend
