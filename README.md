@@ -4,20 +4,20 @@
 
 # backend: https://radiant-coast-75541.herokuapp.com/
 
-+
+## +
 
-# api/auth/registration - POST
-#         /login - POST
-#         /auth - GET
+## api/auth/registration - POST
+## api/auth/login - POST
+## api/auth/auth - GET
 
-# files/ - get all files - GET
-#      /download - download files - GET
-#      /seacrh - seacrh files - GET
-#      / - create directory - POST
-#      /upload - upload file - POST
-#      /avatar - upload avatar - POST
-#      / - delete file - DELETE
-#      /avatar - delete avatar - DELETE
+## files/ - get all files - GET
+## files/download - download files - GET
+## files/seacrh - seacrh files - GET
+## files/ - create directory - POST
+## files/upload - upload file - POST
+## files/avatar - upload avatar - POST
+## files/ - delete file - DELETE
+## files/avatar - delete avatar - DELETE
 
 # Технологии:
 
